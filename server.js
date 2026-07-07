@@ -20,3 +20,7 @@ app.get('/api/endpoints', (req, res) => {
 app.get('/api/facts', (req, res) => {
     res.json(facts);
 });
+
+app.listen(port, () => {
+    console.log(`Сервер запущено на порту ${port}`);
+});
