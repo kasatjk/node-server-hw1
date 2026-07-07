@@ -19,3 +19,5 @@ app.get('/api/endpoints', (req, res) => {
 app.get('/api/facts', (req, res) => {
     res.json(facts);
 });
+
+export null;
