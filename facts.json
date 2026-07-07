@@ -1,0 +1,21 @@
+{
+    "name": "Danylo",
+    "surname": "Pavliuk",
+    "birth_date": "14/10/2010",
+    "location": "77°50'51.5\"S 166°40'10.3\"E",
+    "interests": [
+    "Programming",
+    "Computer games",
+    "Chess",
+    "A bit of this, a bit of that, etc."
+    ],
+    "current_project": "Procrastinating, trying to start a static website project about family history and genealogy",
+    "facts": [
+        "Studying at IT Step Academy",
+        "Loves Oleksandr Zahoruiko's teaching style and humor",
+        "Plays chess on chess.com and lichess.org. Quite rarely but sometimes at least",
+        "Hates deadlines",
+        "Loves nature",
+        "Lives in Odesa, Ukraine"
+]
+}
